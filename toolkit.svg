@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="144" viewBox="0 0 1040 144" role="img" aria-label="Tech stack: Python, C++, PyTorch, Torchvision, OpenCV, Scikit-learn, NumPy, Pandas, Git, Jupyter">
+  <style>text{font-family:DejaVu Sans,Arial,sans-serif;font-size:14px;font-weight:600;fill:#D5E5F3} .tile{fill:#12243A;stroke:#2A4866;stroke-width:1.2}</style>
+  <rect width="1040" height="144" rx="18" fill="#0B1727"/>
+  <g>
+  <rect class="tile" x="14" y="14" width="192" height="52" rx="10"/><circle cx="36" cy="40" r="7" fill="#F7CC54"/><text x="52" y="45">Python</text>
+  <rect class="tile" x="219" y="14" width="192" height="52" rx="10"/><circle cx="241" cy="40" r="7" fill="#73B4F5"/><text x="257" y="45">C / C++</text>
+  <rect class="tile" x="424" y="14" width="192" height="52" rx="10"/><circle cx="446" cy="40" r="7" fill="#FC8357"/><text x="462" y="45">PyTorch</text>
+  <rect class="tile" x="629" y="14" width="192" height="52" rx="10"/><circle cx="651" cy="40" r="7" fill="#EE7C4D"/><text x="667" y="45">Torchvision</text>
+  <rect class="tile" x="834" y="14" width="192" height="52" rx="10"/><circle cx="856" cy="40" r="7" fill="#6EB9B0"/><text x="872" y="45">OpenCV</text>
+  <rect class="tile" x="14" y="78" width="192" height="52" rx="10"/><circle cx="36" cy="104" r="7" fill="#F39E50"/><text x="52" y="109">Scikit-learn</text>
+  <rect class="tile" x="219" y="78" width="192" height="52" rx="10"/><circle cx="241" cy="104" r="7" fill="#69A2DF"/><text x="257" y="109">NumPy</text>
+  <rect class="tile" x="424" y="78" width="192" height="52" rx="10"/><circle cx="446" cy="104" r="7" fill="#91BDDA"/><text x="462" y="109">Pandas</text>
+  <rect class="tile" x="629" y="78" width="192" height="52" rx="10"/><circle cx="651" cy="104" r="7" fill="#EE825C"/><text x="667" y="109">Git</text>
+  <rect class="tile" x="834" y="78" width="192" height="52" rx="10"/><circle cx="856" cy="104" r="7" fill="#F39D70"/><text x="872" y="109">Jupyter</text>
+  </g>
+</svg>
