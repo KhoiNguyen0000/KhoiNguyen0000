@@ -8,10 +8,10 @@ I'm an **Artificial Intelligence student at FPT University** and a **member of A
 - 🎓 **University:** FPT University
 - 🧪 **Lab:** AIC Lab — FPT University
 - 📧 **Gmail:** [nguyennguyentankhoi@gmail.com](mailto:nguyennguyentankhoi@gmail.com)
-- 💬 **Discord:** `YOUR_DISCORD_USERNAME`
+- 💬 **Discord:** `khoinguyen#6116`
 
 ## 🛠️ My toolkit
 
 <p align="center">
-  <img src="assets/toolkit.svg" alt="Python, C/C++, PyTorch, Torchvision, OpenCV, Scikit-learn, NumPy, Pandas, Git, and Jupyter" width="100%" />
+  <img src="toolkit.svg" alt="Python, C/C++, PyTorch, Torchvision, OpenCV, Scikit-learn, NumPy, Pandas, Git, and Jupyter" width="100%" />
 </p>
