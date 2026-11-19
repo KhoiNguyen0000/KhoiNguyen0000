@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nguyen Tan Khoi Nguyen</h1>
+<p align="center">Artificial Intelligence Student · Computer Vision · Deep Learning</p>
 
-<!--
-**KhoiNguyen0000/KhoiNguyen0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About me
 
-Here are some ideas to get you started:
+I'm an **Artificial Intelligence student at FPT University** and a **member of AIC Lab**. I'm interested in building practical AI solutions, especially in **Computer Vision**, **Deep Learning**, and **Industrial Anomaly Detection**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **University:** FPT University
+- 🧪 **Lab:** AIC Lab — FPT University
+- 📧 **Gmail:** [nguyennguyentankhoi@gmail.com](mailto:nguyennguyentankhoi@gmail.com)
+- 💬 **Discord:** `YOUR_DISCORD_USERNAME`
+
+## 🛠️ My toolkit
+
+<p align="center">
+  <img src="assets/toolkit.svg" alt="Python, C/C++, PyTorch, Torchvision, OpenCV, Scikit-learn, NumPy, Pandas, Git, and Jupyter" width="100%" />
+</p>
